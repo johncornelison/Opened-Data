@@ -1,15 +1,15 @@
-# Permalinks
+d# Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+
 
 # Setup
 title:               Health Data Project Toolkit
 tagline:             'a Guide for CA Health Data Ambassadors'
 description:         'A statewide pilot project funded by the <a href="http://www.chcf.org/" target="_blank">California HealthCare Foundation’s</a> <a href="http://www.chcf.org/projects/2012/free-the-data" target="_blank">Free the Data</a> Initiative'
 url:                 http://toolkit.cahealthdata.org
-baseurl:             ''
+baseurl:             'http://johncornelison.github.io/Opened-Data'
 paginate:            5
 
 # About/contact
